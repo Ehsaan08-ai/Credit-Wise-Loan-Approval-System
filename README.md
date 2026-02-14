@@ -4,6 +4,8 @@
 
 Credit-Wise is an end-to-end machine learning pipeline designed to automate loan approval decisions. This project implements a binary classification system that predicts whether a loan application should be approved or rejected based on applicant financial and personal information.
 
+**🌐 [Try the Live App](https://loanify.streamlit.app/)**
+
 ## 🎯 Features
 
 - **Multi-Model Comparison**: Implements and compares three supervised learning algorithms:
